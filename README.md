@@ -1,6 +1,6 @@
 # Hi , I'm Mohamed Amer 
 
-###  Computer Science Student @ Alamein International University (AIU)
+###  Computer Science Student Alamein International University (AIU)
 I'm a Data Engineering enthusiast and Python developer.
 
 ---
@@ -25,12 +25,6 @@ I'm a Data Engineering enthusiast and Python developer.
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-###  My GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedamerdev-coder&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamerdev-coder&layout=compact&theme=tokyonight)
 
 ---
 
